@@ -1,2 +1,2 @@
-# SingeInterpret
-Everything SingeScript related (singescript, singeterminal)
+# ZynxInterpret
+Everything ZynxScript related (zynxscript, zynxterminal)
